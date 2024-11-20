@@ -1,0 +1,9 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+*{
+   font-family:'Times New Roman', Times, serif
+}
+
+li {
+   list-style-type: none;
+}
